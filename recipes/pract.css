@@ -1,17 +1,15 @@
-.pinknumbers{
-    background-color: pink;
-    font-family: Verdana, "Dejavu Sans", sans-serif;
-}
-#two{
-    color: blue;
-    font-size: 36px;
+.BlackButton,
+.YellowButton {
+    font-size: 28px;
+    font-family: Helvetica, "Time New Roman", sans-serif;
 }
 
-.odd{
-    font-size: 24px;
+#first {
+    color: white;
+    background-color: black;
 }
 
-#four{
-    background-color: lightgreen;
-    font-size: 24px;
+#second {
+color: black;
+background-color: yellow;
 }
