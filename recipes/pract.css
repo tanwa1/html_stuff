@@ -1,15 +1,14 @@
-.BlackButton,
-.YellowButton {
-    font-size: 28px;
-    font-family: Helvetica, "Time New Roman", sans-serif;
+.avatar, 
+.proportioned {
+ width: 300px;
+ height: auto;
+
 }
 
-#first {
-    color: white;
-    background-color: black;
+.distorted {
+width: 200px;
 }
 
 #second {
-color: black;
-background-color: yellow;
+    height:400px;
 }
