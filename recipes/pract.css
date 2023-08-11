@@ -1,6 +1,37 @@
-.dumbo .text {
-    color: red;
-    background-color: yellow;
+body{
+    font-family: Arial, Helvetica, sans-serif;
+}
+.font{
+    font-weight: bolder;
+}
+.font.big{
+    font-size: 30px;
+}
+
+.button{
     font-size: 20px;
+    border: 2px solid black
+}
+.button.confirm {
+    color: white;
+    background-color: green;
     text-align: center;
+    font-weight: bolder;
+}
+.button.cancel{
+    color: black;
+    background-color: white;
+    text-align: center;
+}
+.parent-div{
+    font-size: 20px;
+}
+
+.child{
+    color: red;
+}
+.child.div{
+    font-size: 10px;
+    font-weight: bolder;
+    color: black;
 }

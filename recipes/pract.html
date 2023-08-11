@@ -3,18 +3,24 @@
 <head>
     <link rel="stylesheet" href="pract.css">
     <meta charset="UTF-8">
-    <meta name="viewport" content="width=<device-width>, initial-scale=1.0">
+
     <title>Document</title>
 </head>
 <body>
-<div class="dumbo">
- <p class="text">This should be styled</p>
- </div>
- <p>This should be unstyled</p>
- <p>This should be unstyled</p>
- <div class="dumbo">
- <p class="text">This should be styled</p>
- <p class="text">This should be styled</p>
+    
+        <p class="font big"> I'm just a paragraph with extra bold text!</p>
+        <p class="font small">I'm a smaller paragraph, also with extra bold text!</p>
+
+<button type="button" onclick="alert('Hello world!')" id="confirm" class="button confirm">Confirm</button>
+<button type="button" onclick="alert('The execution is cancelled!')" id="cancel" class="button cancel">Cancel</button>
+<div class="parent-div">
+    <p>I'm a div with thin text!</p>
+    <div class="child thin">
+        <p>I'm a div with thin text and a child div</p>
+    </div>
+    <div class="child div">
+        <p>I'm a smaller child div with extra bold text.</p>
+    </div>
 </div>
 </body>
 </html>
