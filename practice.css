@@ -1,11 +1,38 @@
-.click-me, .no-click-me{
-    font-size: 26px;
-    font-family: Helvetica, 'Times New Roman', sans-serif;
-}
-#clickMe{
-    background-color: black;
+body {
+    font-family: Arial, Helvetica, sans-serif;
+  }
+  
+  .para{
+    font-size: 22px;
+    color: hsl(0, 0%, 0%);
+    font-weight: 800;
+  }
+  
+  .small-para {
+    font-size: 14px;
+    font-weight: 800;
+  }
+  
+  
+  .confirm {
+    background-color: green;
     color: white;
-}
-#noMe{
-    background-color: yellow;
-}
+    font-weight: bold;
+    font-size: 20px;
+   
+  } 
+  
+  .button.cancel {
+    background-color: rgb(255, 255, 255);
+    font-size: 20px;
+  }
+  
+  div.child {
+    font-weight: bold;
+    font-size: 14px;
+  }
+  
+  .text {
+    color: rgb(0, 0, 0);
+    font-size: 22px;
+  }
