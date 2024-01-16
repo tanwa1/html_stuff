@@ -1,3 +1,3 @@
 I'm still startin' doing something.
 
-Will update soon...
+Starting now
