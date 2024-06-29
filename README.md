@@ -1,3 +1,3 @@
-I'm still startin' doing something.
+Will gradually update.
 
-Starting now
+Will put on "How to cook", mainly dishes I know how to cook
